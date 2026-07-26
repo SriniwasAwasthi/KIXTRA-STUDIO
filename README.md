@@ -156,8 +156,7 @@ Make sure you have **Node.js** (v18 or higher) installed on your system.
 
 ## 💖 Thank You for Visiting!
 
-✨ **Thank you so much for dropping by!** 💖
-
+✨ Thank you so much for dropping by! 💖  
 Taking your precious time to analyze this project, read through the features, and view my account is an absolute honor. You rock! 🚀🌟  
 Having you visit my account, explore this repository, and take the time to inspect my work truly means the world to me. Your curiosity and support mean so much! 🌸💫
 
